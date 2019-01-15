@@ -216,6 +216,9 @@ h6 {
     display: block;
     max-width: 30rem; }
 
+.toDo {
+  list-style: none; }
+
 .portfolio-item {
   display: block;
   position: relative;
@@ -322,3 +325,8 @@ a {
 
 .text-secondary {
   color: #ecb807 !important; }
+
+  .toDo{
+    list-style: none;
+    
+  }

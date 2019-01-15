@@ -7,8 +7,8 @@ const Header = () => (
       <h3 className="mb-5">
         <em>A Free Bootstrap Theme by Start Bootstrap</em>
       </h3>
-      <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">
-        Find Out More
+      <a className="btn btn-primary btn-xl js-scroll-trigger" href="http://www.justjared.com/">
+        Login
       </a>
     </div>
     <div className="overlay" />

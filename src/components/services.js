@@ -2,26 +2,26 @@ import React from "react";
 import ScrollableAnchor from "react-scrollable-anchor";
 const ServicesOffered = [
   {
-    title: "Responsive",
+    title: "Weddings",
     description: "Looks great on any screen size!",
-    icon: "icon-screen-smartphone"
+    icon: "icon-diamond"
   },
   {
-    title: "Redesigned",
+    title: "Showers",
     description: "Freshly redesigned for Bootstrap 4.",
-    icon: "icon-pencil"
+    icon: "icon-umbrella"
   },
   {
-    title: "Favorited",
+    title: "Birthday",
     description: (
       <span>
         Millions of users <i className="fas fa-heart" /> Start Bootstrap!
       </span>
     ),
-    icon: "icon-like"
+    icon: "icon-birthday-cake"
   },
   {
-    title: "Question",
+    title: "Anniversaries & More",
     description: "I mustache you a question...",
     icon: "icon-mustache"
   }
